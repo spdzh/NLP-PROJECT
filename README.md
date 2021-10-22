@@ -4,7 +4,7 @@ Story –
 	Two techniques were applied on the dataset.
 1.	Bag of words (BoW)
 
-	The BoW was used to model the data for further prediction and classify comments as positive or negative.
+	The BoW is used to model the data for further prediction and classify comments as positive or negative.
 
 2.	Latent Dirichlet Allocation (LDA)
 
