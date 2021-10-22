@@ -21,4 +21,8 @@ Story –
 	
 	![image](https://user-images.githubusercontent.com/86731694/138506269-b3af7e24-b7dc-4302-8a0f-2d6a7e7d556e.png)
 
+# Copyright
+Data is available at:
+https://www.kaggle.com/shashank1558/preprocessed-twitter-tweets
+
 
