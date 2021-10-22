@@ -19,5 +19,6 @@ Story –
 
 	This technique is used for topic modeling. In this dataset 5 different topics were extracted.
 	
-	![image](https://user-images.githubusercontent.com/86731694/138506221-5d54a941-1bb7-4b64-8e4f-e468ee34d186.png)
+	![image](https://user-images.githubusercontent.com/86731694/138506269-b3af7e24-b7dc-4302-8a0f-2d6a7e7d556e.png)
+
 
