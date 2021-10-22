@@ -12,7 +12,7 @@ Story –
 	
 	To compare the models performance, four factors includes accuracy, precision, recall, and F1_score were calculated.
 	
-	![image](https://user-images.githubusercontent.com/86731694/138505912-64f6d7b4-3ec9-4fce-bd00-bab4b4ef4b32.png)
+	![image](https://user-images.githubusercontent.com/86731694/138508568-f9f11200-affc-44e5-809c-792bc58577c1.png)
 
 
 2.	Latent Dirichlet Allocation (LDA)
