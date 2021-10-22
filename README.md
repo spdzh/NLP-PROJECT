@@ -8,4 +8,4 @@ Story –
 
 2.	Latent Dirichlet Allocation (LDA)
 
-	I used this technique for topic modeling. I extracted 5 different topics in this dataset.	
+	This technique is used for topic modeling. In this dataset 5 different topics were extracted.	
